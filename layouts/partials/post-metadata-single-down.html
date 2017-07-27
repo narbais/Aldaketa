@@ -1,0 +1,11 @@
+<div class="post-metadata">
+
+    <p class="text-muted">{{ .Params.subtitle }}</p>
+    {{ if .Params.tags }}
+        {{ partial "tags" .Params.tags }}
+    {{ end }}
+
+    {{ if (ne ($.Param "displayauthor") true) }}
+        <small class="text-muted">by {{ .Params.author | default .Site.Params.author }}</small>
+    {{ end }}
+</div>
