@@ -15,6 +15,7 @@ GoogleAnalytics = "UA-XXXXXX"
 [params]
   description = "Le soutien nécessaire dans vos projets"
   author = "Michel Narbais"
+  lieu = "Pays-Basque"
   keywords = ["hugo-now", "hugo"]
   avatar = "/img/aldaketa-v2-1.png"
   displayauthor = false

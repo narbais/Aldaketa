@@ -1,5 +1,12 @@
-<div class="well post-banner">
-    {{ range .Params.banner }}
-        <img class="banner-img" src="{{ .src }}" alt="{{ .alt }}"></img>
-    {{ end }}
-</div>
+{{ if .Params.Result }}
+    <div class="row">
+        <div class="subtitle-project">Result :</div>
+    </div>
+    <div class="row list-solution-result">
+        <ul>
+            {{ range .Params.Result }}
+                <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+{{ end }}

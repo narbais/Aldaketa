@@ -75,3 +75,23 @@ a {
     width: 400px;
     /*display: block;*/
 }
+
+.subtitle-project {
+    /*font-style: italic|strong;*/
+    /*font: bolder;*/
+    color: #000;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.list-solution-result {
+    list-style-type: square
+}
+
+.description {
+    text-indent: 40px;
+}
+
+.img-projet {
+
+}
