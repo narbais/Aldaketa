@@ -2,196 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c495162-56c7-42ae-9380-d914fd02138d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/aldaketa-v2-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/bootstrap-solid.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/font-awesome-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/google-analytics.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/gulp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-now.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/javascript.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/jekyll-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/powered-by-hugo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/pygments-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/sass.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/A-aldaketa.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/Flag_of_the_Basque.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/LinkedIn-Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/aldaketa-v2-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/art.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/flag_france.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/flag_spanish.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/lieu.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/logo_entreprise.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/maison1.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/maison2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/photo4.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/piment.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/piment2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/restaurant.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/dashboard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/homepage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/post.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/project.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/table-of-contents.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/categories/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/contact-test/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/identite/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/aldaketa.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/style.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/bootstrap-solid.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/font-awesome-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/google-analytics.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/gulp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-now.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/javascript.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/powered-by-hugo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/pygments-logo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/sass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/Notre-Dame de Paris | Domaine d'intervention.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/bootstrap/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/jquery/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/tether/tether.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/bootstrap/VERSION.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/bootstrap/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/jquery/VERSION.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/jquery/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/tether/VERSION.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/tether/tether.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/emoji-support/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/influence-tourisme-hp/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/javascript-support/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/obtention-pret/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/sample/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/table-of-contents/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/booster-asso/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/developpement-territorial/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/hugo-now/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/valoriser-produit-service/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact23/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact45/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/index.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/page/1/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/contact/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/contact/single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke" afterPath="$PROJECT_DIR$/themes/gohugo-theme-ananke" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-now" afterPath="$PROJECT_DIR$/themes/hugo-now" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/contact-file/contact-test.md" afterPath="$PROJECT_DIR$/content/contact-file/contact-test.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/xxx/contact23.md" afterPath="$PROJECT_DIR$/content/xxx/contact23.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/contact/formulaire.html" afterPath="$PROJECT_DIR$/layouts/contact/formulaire.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" afterPath="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -292,16 +105,6 @@
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/layouts/xxx/list.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="24" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -808,20 +611,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="docs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hugo_Aldaketa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Hugo_Aldaketa" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -1039,12 +828,12 @@
       <workItem from="1501000226851" duration="25855000" />
       <workItem from="1501092221217" duration="17991000" />
       <workItem from="1501171155197" duration="20852000" />
-      <workItem from="1501517888203" duration="7714000" />
+      <workItem from="1501517888203" duration="7835000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72412000" />
+    <option name="totallyTimeSpent" value="72533000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1056,8 +845,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1967" y="-4" width="1633" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1364,14 +1154,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/xxx/contact23.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1487,6 +1269,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding />
         </state>
       </provider>

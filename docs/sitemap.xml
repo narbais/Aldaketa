@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/post/obtention-pret/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/emoji-support/</loc>
+    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/table-of-contents/</loc>
+    <lastmod>2017-07-05T23:02:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/javascript-support/</loc>
+    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/sample/</loc>
+    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/booster-asso/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/valoriser-produit-service/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/developpement-territorial/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/hugo-now/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dashboard/blog/</loc>
+    <lastmod>2017-07-03T15:21:37-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/influence-tourisme-hp/</loc>
+    <lastmod>2016-07-09T02:00:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/banque/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/blog/</loc>
+    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/bootstrap/</loc>
+    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/commune/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/xxx/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact-file/contact-test/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact-file/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/xxx/contact23/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/xxx/contact45/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/culture/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/dashboard/</loc>
+    <lastmod>2017-07-03T15:21:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/dashboard/</loc>
+    <lastmod>2017-07-03T15:21:37-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/demo/</loc>
+    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/developpement/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/emoji/</loc>
+    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/espagne/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/feature/</loc>
+    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hotel/</loc>
+    <lastmod>2016-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hugo/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hugo-blog-theme/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/hugo-theme/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/javascript/</loc>
+    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/negociation/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/noscript/</loc>
+    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/pays-basque/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/point_left/</loc>
+    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/post/</loc>
+    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/post/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/produit/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/project/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact-file/identite/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/restaurant/</loc>
+    <lastmod>2016-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/service/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/table-of-contents/</loc>
+    <lastmod>2017-07-05T23:02:42-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/tourisme/</loc>
+    <lastmod>2016-07-09T02:00:21-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/xxx/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

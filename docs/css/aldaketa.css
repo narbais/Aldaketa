@@ -1,0 +1,97 @@
+/* rouge
+#9a0007 primary
+#d32f2f lightest
+#ff6659 darkest
+*/
+
+/* gris
+#90a4ae secondary
+#c1d5e0 lightest
+#62757f darkest
+*/
+#carouselAccueil img {
+    width: 500px;
+    height: 500px;
+}
+
+
+body {
+    background-color: #f5f5f5;
+}
+/*backgroud color navbar*/
+.bg-primary{
+    background-color:#d32f2f !important;
+}
+
+/*text color navbar*/
+.navbar-inverse .navbar-nav .nav-link {
+    color: azure !important;
+}
+
+/*inverse .navbar-toggler {*/
+    /*color: #c1d5e0 !important;*/
+/*}*/
+
+
+
+.footstrap {
+    background-color: #00e676;
+}
+
+a {
+    color: #1d1e1f !important;
+    text-decoration: none;
+}
+
+.linkedin-logo {
+    font-size: large;
+    background-color: #b9f6ca;
+}
+
+.header {
+    background-color: #00e676;
+}
+
+.slogan {
+    font-style: italic;
+    color: #8a0808;
+    font-size: 20px;
+}
+
+/*.upstrap {*/
+    /*background-color: #8a0808;*/
+/*}*/
+
+.site-description {
+    font-style: italic;
+    color: #8a0808;
+    font-size: 20px;
+}
+
+.img-domaine {
+    /*border-top-right-radius: calc(0.25rem - 1px);*/
+    /*border-top-left-radius: calc(0.25rem - 1px);*/
+    height: 400px;
+    width: 400px;
+    /*display: block;*/
+}
+
+.subtitle-project {
+    /*font-style: italic|strong;*/
+    /*font: bolder;*/
+    color: #000;
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.list-solution-result {
+    list-style-type: square
+}
+
+.description {
+    text-indent: 40px;
+}
+
+.img-projet {
+
+}
