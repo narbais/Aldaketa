@@ -3,7 +3,7 @@ layoutDir = "layouts"
 publishDir = "docs"
 buildDrafts = false
 canonifyURLs = true
-baseurl = "http://example.org/"
+baseurl = "https://narbais.github.io/Hugo_Aldaketa/"
 languageCode = "en-us"
 title = "Aldaketa"
 # theme

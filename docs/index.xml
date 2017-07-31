@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aldaketa</title>
-    <link>http://example.org/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/</link>
     <description>Recent content on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jul 2017 02:00:21 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Obtention d’un Prêt à l’investissement</title>
-      <link>http://example.org/post/obtention-pret/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/obtention-pret/</link>
       <pubDate>Sun, 09 Jul 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/obtention-pret/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/obtention-pret/</guid>
       <description>UN PETIT RESUME S&amp;rsquo;IMPOSE</description>
     </item>
     
     <item>
       <title>:star: Emoji Support :exclamation:</title>
-      <link>http://example.org/post/emoji-support/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/emoji-support/</link>
       <pubDate>Thu, 06 Jul 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/emoji-support/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/emoji-support/</guid>
       <description>&lt;p&gt;:sushi: :beer:&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -33,28 +33,28 @@
     
     <item>
       <title>Table Of Contents</title>
-      <link>http://example.org/post/table-of-contents/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/table-of-contents/</link>
       <pubDate>Wed, 05 Jul 2017 23:02:42 -0500</pubDate>
       
-      <guid>http://example.org/post/table-of-contents/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/table-of-contents/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Javascript Support</title>
-      <link>http://example.org/post/javascript-support/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/javascript-support/</link>
       <pubDate>Tue, 04 Jul 2017 20:55:50 -0500</pubDate>
       
-      <guid>http://example.org/post/javascript-support/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/javascript-support/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sample Post</title>
-      <link>http://example.org/post/sample/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/sample/</link>
       <pubDate>Tue, 04 Jul 2017 19:54:29 -0500</pubDate>
       
-      <guid>http://example.org/post/sample/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/sample/</guid>
       <description>&lt;!--this tag makes only images show on the main page--&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -62,58 +62,58 @@
     
     <item>
       <title>Comment booster mon Association ?</title>
-      <link>http://example.org/project/booster-asso/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/booster-asso/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/booster-asso/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/booster-asso/</guid>
       <description>Parce que mes adhérents, mes administrateurs méritent une grande attention : comment puis je mener une ou des réflexions pour développer mon Association ? quelles voies sont possibles ? pour quels bénéfices escomptés ? comment réussir ?
 Lors d’un entretien, nous définirons votre besoin, vos attentes. Nous dessinerons la mise en oeuvre sur laquelle vous disposerez des outils pour franchir les différentes étapes de votre projet.</description>
     </item>
     
     <item>
       <title>Comment puis je mieux valoriser mes produits, mes services ?</title>
-      <link>http://example.org/project/valoriser-produit-service/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/valoriser-produit-service/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/valoriser-produit-service/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/valoriser-produit-service/</guid>
       <description>Porter à connaissance la réalité de mes offres, la qualité de mes services, la garantie de mes engagements est déterminant dans u monde qui bouge et où la fidélisation est vitale.
 Quels sont les outils et canaux les mieux appropriés à mon activité ? Quelles sont les conditions de réussite ? Qu’existe t-il à ma dimension ? mon champ de clientèles ? mes capacités ?</description>
     </item>
     
     <item>
       <title>Développement territorial</title>
-      <link>http://example.org/project/developpement-territorial/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/developpement-territorial/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/developpement-territorial/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/developpement-territorial/</guid>
       <description>Notre postulat : « ce sont les territoires dynamiques qui créent des emplois et la cohésion sociale »
 Que nous vivions en milieu rural, périurbain ou urbain, la dynamique collective, par la synergie des acteurs, renforce le bien être de ses habitants.</description>
     </item>
     
     <item>
       <title>Hugo Now</title>
-      <link>http://example.org/project/hugo-now/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/hugo-now/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/hugo-now/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/hugo-now/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>http://example.org/dashboard/blog/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/dashboard/blog/</link>
       <pubDate>Mon, 03 Jul 2017 15:21:37 -0500</pubDate>
       
-      <guid>http://example.org/dashboard/blog/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/dashboard/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Développement du taux de remplissage d’un Etablissement touristique</title>
-      <link>http://example.org/post/influence-tourisme-hp/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/influence-tourisme-hp/</link>
       <pubDate>Sat, 09 Jul 2016 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/influence-tourisme-hp/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/influence-tourisme-hp/</guid>
       <description>&lt;p&gt;UN PETIT RESUME S&amp;rsquo;IMPOSE&lt;/p&gt;
 
 &lt;p&gt;solution:
@@ -134,10 +134,10 @@ Que nous vivions en milieu rural, périurbain ou urbain, la dynamique collective
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/xxx/contact/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/xxx/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/xxx/contact/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/xxx/contact/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.
@@ -147,10 +147,10 @@ Vous êtes porteur de projet, créateur ou repreneur d’entreprise et vous avez
     
     <item>
       <title>Contact TEST</title>
-      <link>http://example.org/contact-file/contact-test/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/contact-file/contact-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact-file/contact-test/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/contact-file/contact-test/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.
@@ -160,10 +160,10 @@ Vous êtes porteur de projet, créateur ou repreneur d’entreprise et vous avez
     
     <item>
       <title>Contact23</title>
-      <link>http://example.org/xxx/contact23/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/xxx/contact23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/xxx/contact23/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/xxx/contact23/</guid>
       <description>NotreNotreNotreNotreNotreNotreNotreNotre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.
@@ -173,10 +173,10 @@ Vous êtes porteur de projet, créateur ou repreneur d’entreprise et vous avez
     
     <item>
       <title>Contact45</title>
-      <link>http://example.org/xxx/contact45/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/xxx/contact45/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/xxx/contact45/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/xxx/contact45/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.
@@ -186,10 +186,10 @@ Vous êtes porteur de projet, créateur ou repreneur d’entreprise et vous avez
     
     <item>
       <title>Qui somme nous ?</title>
-      <link>http://example.org/contact-file/identite/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/contact-file/identite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact-file/identite/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/contact-file/identite/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.

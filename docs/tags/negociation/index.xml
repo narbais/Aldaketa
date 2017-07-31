@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Negociation on Aldaketa</title>
-    <link>http://example.org/tags/negociation/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/tags/negociation/</link>
     <description>Recent content in Negociation on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jul 2017 02:00:21 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/negociation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/tags/negociation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Obtention d’un Prêt à l’investissement</title>
-      <link>http://example.org/post/obtention-pret/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/obtention-pret/</link>
       <pubDate>Sun, 09 Jul 2017 02:00:21 -0500</pubDate>
       
-      <guid>http://example.org/post/obtention-pret/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/obtention-pret/</guid>
       <description>UN PETIT RESUME S&amp;rsquo;IMPOSE</description>
     </item>
     

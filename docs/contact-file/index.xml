@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact-files on Aldaketa</title>
-    <link>http://example.org/contact-file/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/contact-file/</link>
     <description>Recent content in Contact-files on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/contact-file/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/contact-file/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact TEST</title>
-      <link>http://example.org/contact-file/contact-test/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/contact-file/contact-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact-file/contact-test/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/contact-file/contact-test/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.
@@ -25,10 +25,10 @@ Vous êtes porteur de projet, créateur ou repreneur d’entreprise et vous avez
     
     <item>
       <title>Qui somme nous ?</title>
-      <link>http://example.org/contact-file/identite/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/contact-file/identite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/contact-file/identite/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/contact-file/identite/</guid>
       <description>Notre méthodologie
 Une solution personnalisée et sur mesure.
 Une prestation de Qualité et toujours dans la mise en perspective.

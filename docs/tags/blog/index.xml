@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Aldaketa</title>
-    <link>http://example.org/tags/blog/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/tags/blog/</link>
     <description>Recent content in Blog on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jul 2017 19:54:29 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sample Post</title>
-      <link>http://example.org/post/sample/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/post/sample/</link>
       <pubDate>Tue, 04 Jul 2017 19:54:29 -0500</pubDate>
       
-      <guid>http://example.org/post/sample/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/post/sample/</guid>
       <description>&lt;!--this tag makes only images show on the main page--&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Blog</title>
-      <link>http://example.org/dashboard/blog/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/dashboard/blog/</link>
       <pubDate>Mon, 03 Jul 2017 15:21:37 -0500</pubDate>
       
-      <guid>http://example.org/dashboard/blog/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/dashboard/blog/</guid>
       <description></description>
     </item>
     

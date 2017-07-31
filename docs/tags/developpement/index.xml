@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Developpement on Aldaketa</title>
-    <link>http://example.org/tags/developpement/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/tags/developpement/</link>
     <description>Recent content in Developpement on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 20:43:15 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/developpement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/tags/developpement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comment puis je mieux valoriser mes produits, mes services ?</title>
-      <link>http://example.org/project/valoriser-produit-service/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/valoriser-produit-service/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/valoriser-produit-service/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/valoriser-produit-service/</guid>
       <description>Porter à connaissance la réalité de mes offres, la qualité de mes services, la garantie de mes engagements est déterminant dans u monde qui bouge et où la fidélisation est vitale.
 Quels sont les outils et canaux les mieux appropriés à mon activité ? Quelles sont les conditions de réussite ? Qu’existe t-il à ma dimension ? mon champ de clientèles ? mes capacités ?</description>
     </item>

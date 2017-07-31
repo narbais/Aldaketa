@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pays Basque on Aldaketa</title>
-    <link>http://example.org/tags/pays-basque/</link>
+    <link>https://narbais.github.io/Hugo_Aldaketa/tags/pays-basque/</link>
     <description>Recent content in Pays Basque on Aldaketa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 20:43:15 -0500</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/pays-basque/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://narbais.github.io/Hugo_Aldaketa/tags/pays-basque/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Comment booster mon Association ?</title>
-      <link>http://example.org/project/booster-asso/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/booster-asso/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/booster-asso/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/booster-asso/</guid>
       <description>Parce que mes adhérents, mes administrateurs méritent une grande attention : comment puis je mener une ou des réflexions pour développer mon Association ? quelles voies sont possibles ? pour quels bénéfices escomptés ? comment réussir ?
 Lors d’un entretien, nous définirons votre besoin, vos attentes. Nous dessinerons la mise en oeuvre sur laquelle vous disposerez des outils pour franchir les différentes étapes de votre projet.</description>
     </item>
     
     <item>
       <title>Développement territorial</title>
-      <link>http://example.org/project/developpement-territorial/</link>
+      <link>https://narbais.github.io/Hugo_Aldaketa/project/developpement-territorial/</link>
       <pubDate>Mon, 03 Jul 2017 20:43:15 -0500</pubDate>
       
-      <guid>http://example.org/project/developpement-territorial/</guid>
+      <guid>https://narbais.github.io/Hugo_Aldaketa/project/developpement-territorial/</guid>
       <description>Notre postulat : « ce sont les territoires dynamiques qui créent des emplois et la cohésion sociale »
 Que nous vivions en milieu rural, périurbain ou urbain, la dynamique collective, par la synergie des acteurs, renforce le bien être de ses habitants.</description>
     </item>
