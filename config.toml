@@ -1,3 +1,8 @@
+contentDir = "content"
+layoutDir = "layouts"
+publishDir = "docs"
+buildDrafts = false
+canonifyURLs = true
 baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "Aldaketa"

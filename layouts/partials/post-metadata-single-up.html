@@ -5,12 +5,13 @@
     <div class="row">
     <span class="align-baseline">
         <p class="text-muted"><i class="fa fa-calendar" aria-hidden="true"></i> {{ .Date.Format "Janvier 2006" }}
-        {{ if (ne ($.Param "displayauthor") true) }}
+        {{ if (ne ($.Param "lieu") true) }}
             - {{ .Params.lieu | default .Site.Params.lieu }}
         {{ end }}
-        {{ if (ne ($.Param "displayauthor") true) }}
-            <small class="text-muted">- wrote by {{ .Params.author | default .Site.Params.author }}</small>
-        {{ end }}
+            <!--AFFICHE L'AUTEUR-->
+        <!--{{ if (ne ($.Param "displayauthor") true) }}-->
+            <!--<small class="text-muted">- wrote by {{ .Params.author | default .Site.Params.author }}</small>-->
+        <!--{{ end }}-->
         </p>
     </span>
     </div>
