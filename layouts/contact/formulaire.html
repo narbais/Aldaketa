@@ -1,8 +1,32 @@
+<!--{{ partial "header" . }}-->
+<!--{{ partial "nav" . }}-->
+<!--<div class="container">-->
+    <!--xxxxxxxxxxxxxxxxxxxxxxxxxx-->
+    <!--{{ .Title }}-->
+<!--</div>-->
+<!--{{ partial "paginate-list" . }}-->
+<!--{{ partial "footer" . }}-->
+
+
+
 {{ partial "header" . }}
 {{ partial "nav" . }}
 <div class="container">
-    xxxxxxxxxxxxxxxxxxxxxxxxxx
-    {{ .Title }}
+    <section class="section">
+        {{ $paginator := .Paginate (where .Data.Pages "Type" "xxx") }}
+        {{ range sort $paginator.Pages }}
+        <article>
+            {{ .Content }}
+            <!--<div class="content">-->
+            <!--{{ partial "banner" . }}-->
+            <!--&lt;!&ndash; supports emoji &ndash;&gt;-->
+            <!--{{ .Summary | emojify }}-->
+            <!--</div>-->
+        </article>
+        </article>
+        <hr/>
+        {{ end }}
+    </section>
 </div>
 {{ partial "paginate-list" . }}
 {{ partial "footer" . }}

@@ -2,28 +2,195 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c495162-56c7-42ae-9380-d914fd02138d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/contact-file/contact-test.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/contact-file/identite.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/xxx/contact.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/xxx/contact23.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/xxx/contact45.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/contact/formulaire.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/dashboard/single.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/xxx/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/xxx/single.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/contact.md" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/aldaketa-v2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/bootstrap-solid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/font-awesome-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/google-analytics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/gulp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-now.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/javascript.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/jekyll-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/powered-by-hugo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/pygments-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/sass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/A-aldaketa.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/Flag_of_the_Basque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/LinkedIn-Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/aldaketa-v2-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/art.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/flag_france.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/flag_spanish.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/lieu.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/logo_entreprise.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/maison1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/maison2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/photo4.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/piment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/piment2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/restaurant.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/homepage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/project.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/screenshots/table-of-contents.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/categories/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/contact-test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/identite/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/contact-file/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/aldaketa.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/css/style.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/dashboard/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/font-awesome-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/google-analytics.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/gulp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/hugo-now.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/javascript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/powered-by-hugo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/pygments-logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/images/sass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/img/Notre-Dame de Paris | Domaine d'intervention.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/bootstrap/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/dist/vendor/tether/tether.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/bootstrap/VERSION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/bootstrap/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/jquery/VERSION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/tether/VERSION.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/js/vendor/tether/tether.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/logo/hugo-now.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/emoji-support/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/influence-tourisme-hp/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/javascript-support/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/obtention-pret/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/sample/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/post/table-of-contents/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/booster-asso/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/developpement-territorial/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/hugo-now/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/project/valoriser-produit-service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/banque/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/blog/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/bootstrap/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/commune/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/culture/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/dashboard/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/demo/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/developpement/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/emoji/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/espagne/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/feature/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hotel/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-blog-theme/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo-theme/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/hugo/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/javascript/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/negociation/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/noscript/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/pays-basque/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/point_left/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/post/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/produit/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/restaurant/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/service/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/table-of-contents/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/tags/tourisme/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact23/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/contact45/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/index.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/xxx/page/1/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/contact/list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/layouts/contact/single.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/gohugo-theme-ananke" afterPath="$PROJECT_DIR$/themes/gohugo-theme-ananke" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/hugo-now" afterPath="$PROJECT_DIR$/themes/hugo-now" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.toml" afterPath="$PROJECT_DIR$/config.toml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/_default/list.html" afterPath="$PROJECT_DIR$/layouts/_default/list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/_default/single.html" afterPath="$PROJECT_DIR$/layouts/_default/single.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/image.html" afterPath="$PROJECT_DIR$/layouts/partials/image.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/post-metadata-list.html" afterPath="$PROJECT_DIR$/layouts/partials/post-metadata-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/post-metadata-single-down.html" afterPath="$PROJECT_DIR$/layouts/partials/post-metadata-single-down.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/post-metadata-single-up.html" afterPath="$PROJECT_DIR$/layouts/partials/post-metadata-single-up.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/partials/result.html" afterPath="$PROJECT_DIR$/layouts/partials/result.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/contact-file/contact-test.md" afterPath="$PROJECT_DIR$/content/contact-file/contact-test.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/xxx/contact23.md" afterPath="$PROJECT_DIR$/content/xxx/contact23.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/contact/formulaire.html" afterPath="$PROJECT_DIR$/layouts/contact/formulaire.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" afterPath="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,21 +203,104 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="config.toml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
-              <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+              <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formulaire.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/contact/formulaire.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/dashboard/single.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/contact/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="form-contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/layouts/shortcodes/form-contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="single.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/contact/single.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="56" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-test.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/contact-file/contact-test.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="70">
+                <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/layouts/xxx/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -119,19 +369,19 @@
         <option value="$PROJECT_DIR$/content/contact/contact.md" />
         <option value="$PROJECT_DIR$/content/contact/identite.md" />
         <option value="$PROJECT_DIR$/content/contact/contact-test.md" />
-        <option value="$PROJECT_DIR$/content/contact-file/contact-test.md" />
         <option value="$PROJECT_DIR$/layouts/project/list.html" />
-        <option value="$PROJECT_DIR$/layouts/contact/formulaire.html" />
-        <option value="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" />
         <option value="$PROJECT_DIR$/layouts/_default/list.html" />
         <option value="$PROJECT_DIR$/layouts/_default/single.html" />
         <option value="$PROJECT_DIR$/layouts/project/single.html" />
         <option value="$PROJECT_DIR$/layouts/xxx/single.html" />
-        <option value="$PROJECT_DIR$/content/xxx/contact23.md" />
         <option value="$PROJECT_DIR$/content/xxx/contact.md" />
         <option value="$PROJECT_DIR$/content/xxx/contact45.md" />
-        <option value="$PROJECT_DIR$/layouts/xxx/list.html" />
         <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/content/contact-file/contact-test.md" />
+        <option value="$PROJECT_DIR$/layouts/xxx/list.html" />
+        <option value="$PROJECT_DIR$/content/xxx/contact23.md" />
+        <option value="$PROJECT_DIR$/layouts/contact/formulaire.html" />
+        <option value="$PROJECT_DIR$/layouts/shortcodes/form-contact.html" />
       </list>
     </option>
   </component>
@@ -558,6 +808,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hugo_Aldaketa" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hugo_Aldaketa" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="content" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -664,11 +928,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/layouts/contact" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/content/xxx" />
       <recent name="$PROJECT_DIR$/layouts" />
       <recent name="$PROJECT_DIR$/content/contact" />
-      <recent name="$PROJECT_DIR$/layouts/contact" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/shortcodes" />
@@ -775,12 +1039,12 @@
       <workItem from="1501000226851" duration="25855000" />
       <workItem from="1501092221217" duration="17991000" />
       <workItem from="1501171155197" duration="20852000" />
-      <workItem from="1501517888203" duration="4760000" />
+      <workItem from="1501517888203" duration="7714000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69458000" />
+    <option name="totallyTimeSpent" value="72412000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -793,14 +1057,14 @@
   <component name="ToolWindowManager">
     <frame x="1967" y="-4" width="1633" height="1054" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532998" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976446" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32441112" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30085653" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -842,13 +1106,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/css/aldaketa.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1330">
@@ -935,16 +1192,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/archetypes/post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="196">
-            <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/hugo-now/exampleSite/content/dashboard/blog.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1010,8 +1257,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/contact/list.html" />
-    <entry file="file://$PROJECT_DIR$/layouts/contact/single.html" />
     <entry file="file://$PROJECT_DIR$/themes/hugo-now/layouts/_default/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
@@ -1034,16 +1279,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/contact-file/contact-test.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1071,20 +1306,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/contact/formulaire.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/dashboard/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/layouts/project/single.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1097,6 +1318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="16" column="6" lean-forward="true" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,68 +1353,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/xxx/contact.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/xxx/contact23.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="42">
-            <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/project/booster-asso.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="14">
             <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/xxx/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/layouts/shortcodes/form-contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/xxx/contact45.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="42">
-            <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1207,10 +1372,129 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/xxx/contact23.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="140">
+            <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/xxx/contact.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="42">
+            <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/archetypes/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="196">
+            <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/xxx/contact45.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="42">
+            <caret line="3" column="9" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/xxx/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/contact-file/contact-test.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="70">
+            <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
-          <caret line="29" column="14" lean-forward="true" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/_default/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contact/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/dashboard/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/partials/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contact/single.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="56" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/contact/formulaire.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="31" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layouts/shortcodes/form-contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="40" lean-forward="true" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
           <folding />
         </state>
       </provider>

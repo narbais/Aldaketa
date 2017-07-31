@@ -1,7 +1,7 @@
 ---
 title: Contact TEST
 description: We'd love to hear from you
-type: page
+type: contact
 menu:
   main: {}
 
