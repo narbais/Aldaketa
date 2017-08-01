@@ -1,12 +1,7 @@
 ---
-title: Qui somme nous ?
-description: We'd love to hear from you
-valeur:
-    - Proximité
-    - Opérationnalité
-    - Vision stratégique
-methodologie:
-type: page
+title: Contact1
+description: We'd love to hear from you boom
+type: yyy
 menu:
   main: {}
 

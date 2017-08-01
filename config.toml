@@ -12,6 +12,13 @@ theme = "hugo-now"
 # themesDir = "../.."
 # google analytics
 GoogleAnalytics = "UA-XXXXXX"
+sectionPagesMenu = "main"
+
+[[menu.main]]
+  name = "This is the post section"
+  weight = -110
+  identifier = "post"
+  url = "/posts/"
 
 [taxonomies]
   category = "categories"

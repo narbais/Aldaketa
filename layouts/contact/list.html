@@ -2,18 +2,11 @@
 {{ partial "nav" . }}
 <div class="container">
   <section class="section">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "contact") }}
       {{ range sort $paginator.Pages }}
-      <article>
-        {{ partial "post-metadata-list" . }}
-        <!--<div class="content">-->
-          <!--{{ partial "banner" . }}-->
-          <!--&lt;!&ndash; supports emoji &ndash;&gt;-->
-          <!--{{ .Summary | emojify }}-->
-        <!--</div>-->
-      </article>
+      {{ .Content }}
       {{ end }}
   </section>
 </div>
 {{ partial "paginate-list" . }}
-{{ partial "footer" . }}
+{{ partial "footer" . }}s

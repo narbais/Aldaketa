@@ -1,14 +1,14 @@
 ---
-title: Contact11
+title: Contact3
 description: We'd love to hear from you boom
-type: xxx
+type: yyy
 menu:
   main: {}
 
 ---
 
 
-Notre méthodologie
+Notre méthodologie LE BON 
 
 Une solution personnalisée et sur mesure.
 

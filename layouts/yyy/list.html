@@ -1,18 +1,18 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 <div class="container">
-    DEFAULT LIST <!--TODO: to be remove -->
   <section class="section">
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "yyy") }}
       {{ range sort $paginator.Pages }}
       <article>
-        {{ partial "post-metadata-list" . }}
+          {{ .Content }}
         <!--<div class="content">-->
           <!--{{ partial "banner" . }}-->
           <!--&lt;!&ndash; supports emoji &ndash;&gt;-->
           <!--{{ .Summary | emojify }}-->
         <!--</div>-->
       </article>
+      <hr/>
       {{ end }}
   </section>
 </div>

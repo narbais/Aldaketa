@@ -1,29 +1,43 @@
-{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}
-{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}
+<!--{{ $.Scratch.Add "labelClasses" "f6 b db mb1 mt3 sans-serif mid-gray" }}-->
+<!--{{ $.Scratch.Add "inputClasses" "w-100 f5 pv3 ph3 bg-light-gray bn" }}-->
 
-<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">
+<!--<form class="black-80 sans-serif" accept-charset="UTF-8" action="{{ .Get "action" }}" method="POST" role="form">-->
 
-    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Your Name</label>
-    <input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>
+    <!--<label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Your Name</label>-->
+    <!--<input type="text" id="name" name="name" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="name"/>-->
 
-    <label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Your Email Address</label>
-    <input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>
-    <div class="requirements f6 gray glow i ph3 overflow-hidden">
-      An email address is required.
-    </div>
+    <!--<label class="{{ $.Scratch.Get "labelClasses" }}" for="email">Your Email Address</label>-->
+    <!--<input type="email" id="email" name="email" class="{{ $.Scratch.Get "inputClasses" }}"  required placeholder=" "  aria-labelledby="email"/>-->
+    <!--<div class="requirements f6 gray glow i ph3 overflow-hidden">-->
+      <!--An email address is required.-->
+    <!--</div>-->
 
-    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Message</label>
-    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>
+    <!--<label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Message</label>-->
+    <!--<textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }} h4" aria-labelledby="message"></textarea>-->
 
-    <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Send" />
+    <!--<input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black" type="submit" value="Send" />-->
 
-</form>
+<!--</form>-->
 
 
-<form action="https://formspree.io/your@email.com"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
+<form action="https://formspree.io/bixente.narbais@gmail.com" method="POST">
+    <input type="hidden" name="_language" value="fr" />
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Nom Prenom</label>
+    <input type="text" name="name" class="{{ $.Scratch.Get "inputClasses" }}">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Votre adresse mail</label>
+    <input type="email" name="_replyto"  class="{{ $.Scratch.Get "inputClasses" }}">
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}"  for="name">Sujet du mail</label>
+    <input type="text" name="_subject" placeholder="New submission!" class="{{ $.Scratch.Get "inputClasses" }}" />
+
+    <label class="{{ $.Scratch.Get "labelClasses" }}" for="message">Message a envoyer</label>
+    <textarea id="message" name="message" class="{{ $.Scratch.Get "inputClasses" }}"></textarea>
+
+    <input type="text" name="_gotcha" style="display:none" />
+
+    <input type="submit" value="Envoyer">
+    <input type="hidden" name="_next" value="/Hugo_Aldaketa/" /> <!--TODO: redirige vers une pqge "email bien envoye"-->
 </form>
 

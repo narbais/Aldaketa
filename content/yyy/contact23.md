@@ -1,14 +1,14 @@
 ---
-title: Contact TEST
-description: We'd love to hear from you
-type: contact
+title: Contact2
+description: We'd love to hear from you boom
+type: xxx
 menu:
   main: {}
 
 ---
 
 
-Notre méthodologie
+NotreNotreNotreNotreNotreNotreNotreNotre méthodologie
 
 Une solution personnalisée et sur mesure.
 
