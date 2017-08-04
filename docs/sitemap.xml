@@ -3,47 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/obtention-pret/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/projets/obtention-pret/</loc>
     <lastmod>2017-07-09T02:00:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/emoji-support/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/table-of-contents/</loc>
-    <lastmod>2017-07-05T23:02:42-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/javascript-support/</loc>
-    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/sample/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/project/booster-asso/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/domaine-intervention/booster-asso/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/project/valoriser-produit-service/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/domaine-intervention/valoriser-produit-service/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/project/developpement-territorial/</loc>
-    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/project/hugo-now/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/domaine-intervention/developpement-territorial/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
   </url>
   
@@ -53,8 +28,18 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/influence-tourisme-hp/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/projets/influence-tourisme-hp/</loc>
     <lastmod>2016-07-09T02:00:21-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/about-us/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/accueil/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -71,13 +56,7 @@
   
   <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/blog/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/bootstrap/</loc>
-    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
+    <lastmod>2017-07-03T15:21:37-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,24 +72,12 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/xxx/contact/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/contact/contact/</loc>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/contact-file/contact-test/</loc>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/contact-file/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/contact/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/xxx/contact23/</loc>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/xxx/contact45/</loc>
   </url>
   
   <url>
@@ -132,20 +99,14 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/demo/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/developpement/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/emoji/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/domaine-intervention/</loc>
+    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,38 +117,8 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/feature/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/hotel/</loc>
     <lastmod>2016-07-09T02:00:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/hugo/</loc>
-    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/hugo-blog-theme/</loc>
-    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/hugo-theme/</loc>
-    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/javascript/</loc>
-    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,32 +129,8 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/noscript/</loc>
-    <lastmod>2017-07-04T20:55:50-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/pays-basque/</loc>
     <lastmod>2017-07-03T20:43:15-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/point_left/</loc>
-    <lastmod>2017-07-06T02:00:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/post/</loc>
-    <lastmod>2017-07-04T19:54:29-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/post/</loc>
-    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,13 +141,17 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/project/</loc>
-    <lastmod>2017-07-03T20:43:15-05:00</lastmod>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/projets/</loc>
+    <lastmod>2017-07-09T02:00:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/contact-file/identite/</loc>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/about-us/identite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://narbais.github.io/Hugo_Aldaketa/accueil/page-accueil/</loc>
   </url>
   
   <url>
@@ -256,12 +167,6 @@
   </url>
   
   <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/tags/table-of-contents/</loc>
-    <lastmod>2017-07-05T23:02:42-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/</loc>
     <lastmod>2017-07-09T02:00:21-05:00</lastmod>
     <priority>0</priority>
@@ -270,11 +175,6 @@
   <url>
     <loc>https://narbais.github.io/Hugo_Aldaketa/tags/tourisme/</loc>
     <lastmod>2016-07-09T02:00:21-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://narbais.github.io/Hugo_Aldaketa/xxx/</loc>
     <priority>0</priority>
   </url>
   
