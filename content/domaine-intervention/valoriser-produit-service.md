@@ -12,7 +12,7 @@ Qu’existe t-il à ma dimension ? mon champ de clientèles ? mes capacités ?
 "
 repo: "https://github.com/mikeblum/hugo-now"
 website: "https://mblum.me"
-image: "/img/photo4.jpeg"
+image: "/img/libre-droit/espelette-pepper.jpg"
 ---
 
 

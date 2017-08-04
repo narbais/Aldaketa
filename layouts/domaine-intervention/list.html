@@ -2,6 +2,7 @@
 {{ partial "nav" . }}
 <div class="container-fluid">
     <section class="section">
+        <br>
         {{ $paginator := .Paginate (where .Data.Pages "Type" "domaine-intervention") }}
         {{ range sort $paginator.Pages }}
         <article>

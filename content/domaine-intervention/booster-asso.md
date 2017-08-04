@@ -16,7 +16,7 @@ Nous dessinerons la mise en oeuvre sur laquelle vous disposerez des outils pour 
 "
 repo: "https://github.com/mikeblum/hugo-now"
 website: "https://mblum.me"
-image: "/img/restaurant.jpeg"
+image: "/img/libre-droit/coventry-garden.jpg"
 associated_projects: 
     - title: "hotel Biarritz"
       link: "toto"

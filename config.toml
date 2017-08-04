@@ -14,11 +14,28 @@ theme = "hugo-now"
 GoogleAnalytics = "UA-XXXXXX"
 sectionPagesMenu = "main"
 
-[[menu.main]]
-  name = "This is the post section"
-  weight = -110
-  identifier = "post"
-  url = "/posts/"
+
+[[menu.essential]]
+    name = "Accueil"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -100
+    url = "/Accueil/"
+[[menu.essential]]
+    name = "Domaines d'intervention"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -90
+    url = "/domaine-intervention/"
+[[menu.essential]]
+    name = "Projets"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -80
+    url = "/projets/"
+[[menu.essential]]
+    name = "Contact"
+    pre = "<i class='fa fa-road'></i>"
+    weight = -70
+    url = "/contact/"
+
 
 [taxonomies]
   category = "categories"

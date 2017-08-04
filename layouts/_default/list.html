@@ -1,8 +1,9 @@
 {{ partial "header" . }}
 {{ partial "nav" . }}
 <div class="container">
-    DEFAULT LIST <!--TODO: to be remove -->
+    Sorry, this page is in maintenance <!--TODO: to be remove -->
   <section class="section">
+      {{ .Content }}
       {{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
       {{ range sort $paginator.Pages }}
       <article>

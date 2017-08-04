@@ -7,9 +7,8 @@ menu:
 
 ---
 
-Vous voulez plus d'information ? N'hesitez pas a nous contacter, nous vous repondrons dans les jours qui suivent.
+Vous voulez plus d'information ? N'hesitez pas a nous contacter, nous vous répondrons dans les jours qui suivent.
 
 {{< form-contact action="http://formspree.io/bixente.narbais@gmail.com"  >}}
 
 
-Mieux nous connaitre [ici](http://www.google.com)
